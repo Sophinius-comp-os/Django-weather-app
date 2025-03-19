@@ -6,7 +6,7 @@ Project is created with
 * [OpenWeatherMap](https://openweathermap.org/)
 
 This is a application to check weather every city around the world.For Backend using Django Framework and Front End using Bootstrap and also i use openweather for consume the API
-i put requirements.txt for the requirement that i have for this application.[Live App](https://dimasyot.pythonanywhere.com/)
+i put requirements.txt for the requirement that i have for this application.
 
 How to use or install this app on your computer?
 ### 1. Install the requirement.txt on your computer using pip
